@@ -5,7 +5,8 @@
 // RYLR998 TX and RX connected to pins 3 and 5 on ESP32 S2
 
 #include <Arduino.h>
-#include "rylr_loraat.h"
+#include "RYRL_LoRaAT.h"
+
 
 RYLR_LoRaAT rylr;
 uint16_t local_address = 1;

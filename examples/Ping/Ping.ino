@@ -9,7 +9,7 @@
 
 #include <Arduino.h>
 #include <Preferences.h>
-#include "rylr_loraat.h"
+#include "RYRL_LoRaAT.h"
 
 #define LED_PIN 15  // Change for platform or use BUILTIN_LED
 #define BUTTON_PIN 7  // Change for platform
