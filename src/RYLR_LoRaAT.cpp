@@ -6,7 +6,7 @@
 // Driver for Reyax LoRA devices with a UART interface
 //
 
-#include "RYRL_LoRaAT.h"
+#include "RYLR_LoRaAT.h"
 
 // Utility function to prompt for an address.
 // Prompt user at serial port to enter a non-zero address

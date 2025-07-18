@@ -8,7 +8,7 @@
 
 #include <Arduino.h>
 #include <Preferences.h>
-#include "RYRL_LoRaAT.h"
+#include "RYLR_LoRaAT.h"
 
 
 #define LED_PIN 15  // Change for platform or use BUILTIN_LED
